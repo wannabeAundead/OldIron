@@ -1985,7 +1985,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 566cf1596c9e377488a3e5c586735308, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  levelDuration: 5
+  levelDuration: 15
   currentLevel: 1
   levelTimeRemaining: 0
   State: 1
