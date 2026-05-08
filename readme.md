@@ -1,3 +1,6 @@
+## Video Link / Bilibili视频链接
+**Link**:https://www.bilibili.com/video/BV1egdGB8ENS/
+
 ## Credits & Copyright / 声明与美术资产版权
 
 ### Asset Source / 素材来源
